@@ -3,6 +3,9 @@ Matematica e Estatistica aplicada para Data Science, Machine Learning e Intelig�
 
 ---------------------------
 
+<img width="586" height="574" alt="image" src="https://github.com/user-attachments/assets/bf0b801b-baa8-4ad9-8937-7d7d4c769cfb" />
+
+
 A matemática e a estatística são os pilares fundamentais sobre os quais se constroem a Data Science (DS), o Machine Learning (ML) e a Inteligência Artificial (IA). O entendimento desses conceitos é crucial não apenas para aplicar algoritmos, mas também para entender o porquê eles funcionam, avaliar seu desempenho e solucionar problemas de maneira eficaz.
 
 1. Estatística e Probabilidade
